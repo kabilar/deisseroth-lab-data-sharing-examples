@@ -29,9 +29,9 @@ With your data in NWB format, upload Dandi Archive is occurs in
 1. Upload your data. If the above steps are complete, this step should be straightforward.
 
 These steps can be found in the
-[create an account](https://www.dandiarchive.org/handbook/10_using_dandi/#create-an-account-on-dandi) and
-[upload a dataset](https://www.dandiarchive.org/handbook/10_using_dandi/#uploading-a-dandiset)
-sections of the Dandi handbook.
+[create an account](https://docs.dandiarchive.org/10_using_dandi/#create-an-account-on-dandi) and
+[upload a dataset](https://docs.dandiarchive.org/10_using_dandi/#uploading-a-dandiset)
+sections of the Dandi Docs.
 
 The final 3 steps are not formatted correctly in the handbook. The appropriate code to perform the prepration
 and upload are below, where you subsitute the 6-digit `dataset_id` in the appropriate places:
